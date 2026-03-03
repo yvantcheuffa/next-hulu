@@ -57,5 +57,3 @@
 ### External APIs
 - **TMDB API** (The Movie Database) - Comprehensive movie and TV show data
 - **Media Streaming APIs** - Integration for content delivery
-
-## Project Structure
